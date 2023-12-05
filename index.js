@@ -14,4 +14,4 @@ const key = '7LwU3Fp4Z6PtyG5bzX5h7PhVQa';
 
 const plainText = decrypt(cipherText, key);
 
-console.log(plainText);
+console.log(plainText);  //FINNWHEFSX
